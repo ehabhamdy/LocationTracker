@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531445354532",
+    "firebase_url": "https://locationtracker-40b7d.firebaseio.com",
+    "project_id": "locationtracker-40b7d",
+    "storage_bucket": "locationtracker-40b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531445354532:android:96b14573634d4a95",
+        "android_client_info": {
+          "package_name": "com.realtime.ehabhamdy.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531445354532-jde5llesrq17nth134v7e39as9i7cbog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realtime.ehabhamdy.locationtracker",
+            "certificate_hash": "635538C278CB31B9099E52F1FB873D851593DF3F"
+          }
+        },
+        {
+          "client_id": "531445354532-2k2f7a2t8n1dgq6s55qnns4hha369gjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRiiOeAT4bGUn0qPKIMB6FnBfuw-8NE9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531445354532-2k2f7a2t8n1dgq6s55qnns4hha369gjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

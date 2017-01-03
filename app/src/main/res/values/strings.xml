@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+
+    <string name="err_trackingNumber">You need a tracking number!</string>
+    <string name="err_trackedNumber">Please enter which tracking number to follow!</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
