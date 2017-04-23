@@ -42,7 +42,6 @@
                 android:textColorHint="#d9e5f3"
                 android:layout_marginLeft="15dp"
                 android:background="#00000000"
-                android:letterSpacing="0.1"
                 android:textSize="16dp"
                 android:textColor="#000000"/>
 
@@ -89,7 +88,6 @@
             android:textColorHint="#d9e5f3"
             android:layout_marginLeft="15dp"
             android:background="#00000000"
-            android:letterSpacing="0.1"
             android:textSize="16dp"
             android:textColor="#000000"/>
 
@@ -105,5 +103,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btn"
-        android:text="Go to map activity"/>
+        android:text="View this location on Map"/>
 </LinearLayout>

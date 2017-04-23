@@ -37,6 +37,7 @@
                 android:value="com.realtime.ehabhamdy.locationtracker.MainActivity" />
         </activity>
         <activity android:name=".TrackingActivity" />
+        <activity android:name=".PubnupPublisherActivity"></activity>
     </application>
 
 </manifest>
